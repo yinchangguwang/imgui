@@ -82,3 +82,7 @@ examples/example_sdl3_vulkan/example_sdl3_vulkan
 .vs/
 bin/
 bin-int/
+
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
